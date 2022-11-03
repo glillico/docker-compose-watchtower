@@ -1,4 +1,4 @@
-# watchtower
+# docker-compose-watchtower
 
 A docker compose file for my watchtower environment.
 
